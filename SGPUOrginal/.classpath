@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/synthetica.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/syntheticaClassy.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/syntheticaPlain.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/syntheticaSimple2D.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/syntheticaWhiteVision.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/thumbnailator-0.4.7-all.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/weblaf-complete-1.28.jar"/>
+	<classpathentry kind="lib" path="C:/STS workspace/sgpuJava/SGPUOrginal/src/Theme/weblaf-complete-1.29.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
